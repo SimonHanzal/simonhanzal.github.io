@@ -1,0 +1,4 @@
+---
+title: "Personal Webpage"
+---
+I am a postgraduate student in the University of [Glasgow’s Institute of Neuroscience and Psychology](https://www.gla.ac.uk/researchinstitutes/neurosciencepsychology/). I work with [Dr Monika Harvey](https://www.gla.ac.uk/schools/psychology/staff/monikaharvey/), [Prof Gregor Thut](https://www.gla.ac.uk/researchinstitutes/neurosciencepsychology/staff/gregorthut/) and [Dr Gemma Learmonth](https://gemmalearmonth.com/).

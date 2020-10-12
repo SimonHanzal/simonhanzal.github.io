@@ -1,0 +1,13 @@
+name: "blog"
+author: "Simon Hanzal"
+output_dir: "docs"
+output:
+  html_document:
+    self_contained: no
+    theme: flatly
+    css: style.css
+navbar:
+  title: "Personal Webpage"
+  left:
+    - text: "Page"
+      href: index.html

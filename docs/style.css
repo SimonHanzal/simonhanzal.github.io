@@ -1,0 +1,20 @@
+h1, h2, h3 {
+  text-align: center;
+  color: hsl(0, 100%, 20%);
+}
+
+h3 {
+  font-style: italic;
+}
+
+p {
+  border: 1px solid green;
+  padding: 10px;
+  line-height: 2;
+}
+
+ul {
+  border: 3px dotted red;
+  border-radius: 10px;
+  padding: 10px 30px;
+}
