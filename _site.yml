@@ -11,3 +11,6 @@ navbar:
   left:
     - text: "Page"
       href: index.html
+  right:
+    - text: "Experience"
+      href: experience.html

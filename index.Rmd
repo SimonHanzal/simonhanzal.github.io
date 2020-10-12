@@ -45,3 +45,6 @@ I am a researcher interested in how non-invasive neurocognitive tools such as ne
 
 # CV Advantages
 
+![University Logo](images/logo.png)
+
+[experience](experience.html)
