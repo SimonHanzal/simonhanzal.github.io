@@ -13,14 +13,14 @@ My main topic of interest is attention and its role in various neurological diso
 
 ## University of Glasgow
 
-### Title: Research Methods of Psychological Science (MSc)
+### Research Methods of Psychological Science (MSc)
 * Type of study: Full-time
 * Dates: September 2020 – Present
 * Education Duration: 2 mos
 * Dissertation: TBC
 * Courses: Data Skills for Reproducible Science, Introduction to MatLab Programming, Professional Skills, Qualitative Methods, Research Methods in Cognitive Science, Cognitive Brain Imaging Methods, Statistics & Research Design
 
-### Title: Single Honours Psychology (MA)
+### Single Honours Psychology (MA)
 * Type of study: Full-time
 * Dates: September 2016 – August 2020
 * Education Duration: 4 years
@@ -31,7 +31,7 @@ My main topic of interest is attention and its role in various neurological diso
 
 ## Resesarch
 
-### Title: Research Scientist, Summer Intern
+### Research Scientist, Summer Intern
 * Employment: Full-time
 * Dates Employed: Jun 2018 – Jul 2018
 * Employment Duration: 2 mos
@@ -40,47 +40,47 @@ My main topic of interest is attention and its role in various neurological diso
 
 ## Volunteering
 
-### Title: Volunteer:
-*Charity: Legion of Mary Scotland
-*Dates: December 2017 - Present
-*Duration: 3 years
-*Job Description: Visiting a soup kitchen for the homeless to engage with the patrons, providing community education.
+### Volunteer
+* Charity: Legion of Mary Scotland
+* Dates: December 2017 - Present
+* Duration: 3 years
+* Job Description: Visiting a soup kitchen for the homeless to engage with the patrons, providing community education.
 
-### Title: Volunteer
-*Charity: Shelter Scotland
-*Dates: January 2017 - May 2015
-*Duration: 5 Months
-*Job Description: Fundraising and maintanance of charity shop
+### Volunteer
+* Charity: Shelter Scotland
+* Dates: January 2017 - May 2015
+* Duration: 5 Months
+* Job Description: Fundraising and maintanance of charity shop
 
-### Title: Volunteer
-*Charity: Diakonie ČCE
-*Dates: August 2015 - March 2016
-*Duration: 1 tear, 3 Months
-*Job Description: Visitting a day-care centre for service users with physical and mental disability to accompany, play music and engage with the service users.
+### Volunteer
+* Charity: Diakonie ČCE
+* Dates: August 2015 - March 2016
+* Duration: 1 tear, 3 Months
+* Job Description: Visitting a day-care centre for service users with physical and mental disability to accompany, play music and engage with the service users.
 
-### Title: Volunteer
-*Charity: Caritas Czech Republic
-*Dates: January 2014 - March 2015
-*Duration: 1 tear, 3 Months
-*Job Description: Visitting a pallitative care ward to provide care and company to the patients.
+### Volunteer
+* Charity: Caritas Czech Republic
+* Dates: January 2014 - March 2015
+* Duration: 1 tear, 3 Months
+* Job Description: Visitting a pallitative care ward to provide care and company to the patients.
 
 # Skills
 
 ## Licences and Certifications
 
-### Title: Psychological First Aid Course Certificate
+### Psychological First Aid Course Certificate
 * Issuer: John Hopkins University
 * Date Issued: April 2020
 
-### Title: PVG Scheme Membership
+### PVG Scheme Membership
 * Issuer: Disclosure Scotland
 * Date Issued: January 2019
 
-### Title: Goethe-Zertifikat B2
+### Goethe-Zertifikat B2
 * Issuer: Goethe-Institut e.V.
 * Issued: October 2015
 
-### Title: Cambridge Certificate of Proficiency in English C2
+### Cambridge Certificate of Proficiency in English C2
 * Issuer: Cambridge Assessment International Education
 * Issued: January 2015
 
@@ -99,25 +99,25 @@ My main topic of interest is attention and its role in various neurological diso
 * German (Limited working proficiency) B2
 * Russian (Elementary Proficiency) A2
 
-## Funding and Awards
+# Funding and Awards
 
-### Award: Public Engagement Award
-*Issuer: College of Medical,Veterinary & Life Sciences, University of Glasgow
-*Date: December 2019
-*For: Summer Research Project
+## Public Engagement Award
+* Issuer: College of Medical,Veterinary & Life Sciences, University of Glasgow
+* Date: December 2019
+* For: Summer Research Project
 
-### Award: £2000 Biomedical Vacation Scholarship
-*Issuer: Wellcome Trust
-*Date: May 2019
-*For: Summer Reserach Project
+## £2000 Biomedical Vacation Scholarship
+* Issuer: Wellcome Trust
+* Date: May 2019
+* For: Summer Reserach Project
 
-### Award: Certificate of Academic Excellence
+## Certificate of Academic Excellence
 * Issuer: School of Psychology, University of Glasgow
 * Date: January 2017
 * Foor: Course performance
 
 # Links
 
-### Article:
+### Articles
 
-[The forced loneliness of coronavirus lockdowns](https://the-gist.org/2020/09/the-forced-loneliness-of-coronavirus-lockdowns/) in Glasgow Insight into Science & Technology.
+* [The forced loneliness of coronavirus lockdowns](https://the-gist.org/2020/09/the-forced-loneliness-of-coronavirus-lockdowns/) in Glasgow Insight into Science & Technology.

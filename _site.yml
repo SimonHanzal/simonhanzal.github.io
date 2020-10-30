@@ -9,8 +9,8 @@ output:
 navbar:
   title: "Personal Webpage"
   left:
-    - text: "Page"
+    - text: "Profile"
       href: index.html
   right:
-    - text: "Experience"
+    - text: "Research"
       href: experience.html
