@@ -8,15 +8,16 @@ h3 {
 }
 
 p {
-  border: 1px solid green;
-  padding: 10px;
+  font-size: 14px;
+  padding: 12px;
   line-height: 2;
 }
 
 ul {
-  border: 3px dotted red;
-  border-radius: 10px;
-  padding: 10px 30px;
+  font-size: 14px;
+  border: 2px purple;
+  border-radius: 12px;
+  padding: 12px 30px;
 }
 
 p.special {

@@ -11,6 +11,15 @@ navbar:
   left:
     - text: "Profile"
       href: index.html
-  right:
     - text: "Research"
+      href: research.html
+    - text: "Academic History"
+      href: academic.html
+    - text: "Experience"
       href: experience.html
+    - text: "Skills"
+      href: skills.html
+    - text: "Funding and Awards"
+      href: funding.html
+    - text: "Links"
+      href: links.html

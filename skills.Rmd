@@ -1,0 +1,38 @@
+---
+title: "Skills"
+---
+
+## Licences and Certifications
+
+### Psychological First Aid Course Certificate
+* Issuer: John Hopkins University
+* Date Issued: April 2020
+
+### PVG Scheme Membership
+* Issuer: Disclosure Scotland
+* Date Issued: January 2019
+
+### Goethe-Zertifikat B2
+* Issuer: Goethe-Institut e.V.
+* Issued: October 2015
+
+### Cambridge Certificate of Proficiency in English C2
+* Issuer: Cambridge Assessment International Education
+* Issued: January 2015
+
+## Technical Skills
+
+* R programming language (advanced proficiency)
+* MS Office (Full working proficiency)
+* Web Programming (basic working proficiency)
+* Python (elementary proficiency)
+
+## Languages
+
+* Czech (Native proficiency)
+* English (Full professional proficiency) C2
+* Polish (Limited working proficiency) B2
+* German (Limited working proficiency) B2
+* Russian (Elementary Proficiency) A2
+
+***

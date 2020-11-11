@@ -1,25 +1,38 @@
 ---
-title: "Research"
+title: "Experience"
 ---
 
-# Research Interests
+## Research
 
-* Attention
-* Stroke
-* Neurofeedback
-* Fatigue
-* Ageing
+### Research Scientist, Summer Intern
+* Employment: Full-time
+* Dates Employed: Jun 2018 – Jul 2018
+* Employment Duration: 2 mos
+* Optimising music listening interventions for individuals with neurological conditions.
+* Responsibilities:
 
-# Current Research
+## Volunteering
 
-* TBC
+### Volunteer
+* Charity: Legion of Mary Scotland
+* Dates: December 2017 - Present
+* Duration: 3 years
+* Job Description: Visiting a soup kitchen for the homeless to engage with the patrons, providing community education.
 
-# Abstracts
+### Volunteer
+* Charity: Shelter Scotland
+* Dates: January 2017 - May 2015
+* Duration: 5 Months
+* Job Description: Fundraising and maintanance of charity shop
 
-## Investigation of alpha rhythms during phasic alerting in young and older adults
-* Phasic alerting involves presenting a brief alerting sound before a visual target. The tone induces a change in alertness, with a knock-on effect of improving the detection of visual targets that appear subsequently. Changes in attention and alertness are associated with changes in alpha power (8-14Hz) within the parieto-occipital cortex in young adults, but there are few studies investigating this in healthy older adults. A mixed design was used (2 x age groups: young/older, 2 x ROI: left/right, 2 x alpha power bins: high/low). 64-channel EEGs were recorded in 17 young (aged 19-24) and 15 older (aged 50-88) adults. Participants responded to a left/right visual target, either preceded by an alerting tone or silence. Alpha power was extracted before the tone and after the tone/silence. Reduced alpha was found after the alerting tone, but this was no different for young and older adults. Statistical analysis showed an effect of reduced alpha power on reaction time with a greater role of right-lateralised alpha reduction. Consequently, phasic alerting induces some beneficial effects on the alerting network by reducing alpha power which translates into a behavioural benefit. Effect of lateralisation also indicates the role of a distinct right-lateralised network for sustained attention
+### Volunteer Assistant
+* Charity: Diakonie ČCE
+* Dates: August 2015 - March 2016
+* Duration: 1 tear, 3 Months
+* Job Description: Visitting a day-care centre for service users with physical and mental disability to accompany, play music and engage with the service users.
 
-# Presentations
-
-## Vacation Scholars Event
-* Optimising music listening interventions for individuals with neurological conditions
+### Volunteer Assistant
+* Charity: Caritas Czech Republic
+* Dates: January 2014 - March 2015
+* Duration: 1 tear, 3 Months
+* Job Description: Visitting a pallitative care ward to provide care and company to the patients.
