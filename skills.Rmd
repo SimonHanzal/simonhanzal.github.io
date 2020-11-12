@@ -14,11 +14,11 @@ title: "Skills"
 
 ### Goethe-Zertifikat B2
 * Issuer: Goethe-Institut e.V.
-* Issued: October 2015
+* Date Issued: October 2015
 
 ### Cambridge Certificate of Proficiency in English C2
 * Issuer: Cambridge Assessment International Education
-* Issued: January 2015
+* Date Issued: January 2015
 
 ## Technical Skills
 
