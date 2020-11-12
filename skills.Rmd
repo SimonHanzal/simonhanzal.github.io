@@ -25,6 +25,7 @@ title: "Skills"
 * R programming language (advanced proficiency)
 * MS Office (Full working proficiency)
 * Web Programming (basic working proficiency)
+* MatLab Data Analysis (basic working proficiency)
 * Python (elementary proficiency)
 
 ## Languages

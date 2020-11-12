@@ -7,7 +7,7 @@ title: "Academic History"
 ### Research Methods of Psychological Science (MSc)
 * Type of study: Full-time
 * Dates: September 2020 – Present
-* Education Duration: 2 mos
+* Education Duration: 2 Months
 * Dissertation: TBC
 * Courses: Data Skills for Reproducible Science, Introduction to MatLab Programming, Professional Skills, Qualitative Methods, Research Methods in Cognitive Science, Cognitive Brain Imaging Methods, Statistics & Research Design
 

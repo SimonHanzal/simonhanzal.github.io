@@ -20,4 +20,5 @@ Phasic alerting involves presenting a brief alerting sound before a visual targe
 
 ## Vacation Scholars Event
 * Title: Optimising music listening interventions for individuals with neurological conditions
+* Place: University of Glasgow, College of Science and Engineering Graduate School
 * Date: September 2019
