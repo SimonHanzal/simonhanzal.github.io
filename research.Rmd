@@ -4,8 +4,7 @@ title: "Research"
 
 # Research Interests
 
-Attention | Stroke | Neurofeedback | EEG |Fatigue | Ageing
-----------|--------|---------------|-----|--------|-------
+* Attention, Stroke, Neurofeedback, EEG, fatigue, Ageing
 
 # Current Research
 
@@ -14,11 +13,15 @@ Attention | Stroke | Neurofeedback | EEG |Fatigue | Ageing
 # Abstracts
 
 ## Investigation of alpha rhythms during phasic alerting in young and older adults
+
 Phasic alerting involves presenting a brief alerting sound before a visual target. The tone induces a change in alertness, with a knock-on effect of improving the detection of visual targets that appear subsequently. Changes in attention and alertness are associated with changes in alpha power (8-14Hz) within the parieto-occipital cortex in young adults, but there are few studies investigating this in healthy older adults. A mixed design was used (2 x age groups: young/older, 2 x ROI: left/right, 2 x alpha power bins: high/low). 64-channel EEGs were recorded in 17 young (aged 19-24) and 15 older (aged 50-88) adults. Participants responded to a left/right visual target, either preceded by an alerting tone or silence. Alpha power was extracted before the tone and after the tone/silence. Reduced alpha was found after the alerting tone, but this was no different for young and older adults. Statistical analysis showed an effect of reduced alpha power on reaction time with a greater role of right-lateralised alpha reduction. Consequently, phasic alerting induces some beneficial effects on the alerting network by reducing alpha power which translates into a behavioural benefit. Effect of lateralisation also indicates the role of a distinct right-lateralised network for sustained attention
 
 # Presentations
 
 ## Vacation Scholars Event
-* Title: Optimising music listening interventions for individuals with neurological conditions
-* Place: University of Glasgow, College of Science and Engineering Graduate School
-* Date: September 2019
+
+Title: Optimising music listening interventions for individuals with neurological 
+
+Place: University of Glasgow, College of Science and Engineering Graduate School
+
+Date: September 2019

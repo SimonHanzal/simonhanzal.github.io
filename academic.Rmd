@@ -2,18 +2,28 @@
 title: "Academic History"
 ---
 
-## University of Glasgow
+# University of Glasgow
 
-### Research Methods of Psychological Science (MSc)
-* Type of study: Full-time
-* Dates: September 2020 – Present
-* Education Duration: 2 Months
-* Dissertation: TBC
-* Courses: Data Skills for Reproducible Science, Introduction to MatLab Programming, Professional Skills, Qualitative Methods, Research Methods in Cognitive Science, Cognitive Brain Imaging Methods, Statistics & Research Design
+## Research Methods of Psychological Science (MSc)
 
-### Single Honours Psychology (MA)
-* Type of study: Full-time
-* Dates: September 2016 – August 2020
-* Education Duration: 4 years
-* Dissertation: Investigation of alpha rhythms during phasic alerting in young and older adults
-* Honours courses: Cognitive Psychology, Human Development, Perception Vision Cognition, Professional Skills, Social Psychology, Statistics, Individual Differences, Qualitative Mini Project, Quantitative Mini Project, Physiological Psychology, Psychometrics, Virtue Ethics, Cognitive Neuroscience: Insights into Brain Plasticity, Neuropsychological Deficits, Sleep and Circadian Timing, Neuroscience of Decision Making, From Visual Awareness to Free Will, Current Trends in Clinical Psychology, Health Neuroscience.
+Type of study: Full-time
+
+Dates: September 2020 – Present
+
+Education Duration: 2 Months
+
+Dissertation: TBC
+
+Courses: Data Skills for Reproducible Science, Introduction to MatLab Programming, Professional Skills, Qualitative Methods, Research Methods in Cognitive Science, Cognitive Brain Imaging Methods, Statistics & Research Design
+
+## Single Honours Psychology (MA)
+
+Type of study: Full-time
+
+Dates: September 2016 – August 2020
+
+Education Duration: 4 years
+
+Dissertation: Investigation of alpha rhythms during phasic alerting in young and older adults
+
+Honours courses: Cognitive Psychology, Human Development, Perception Vision Cognition, Professional Skills, Social Psychology, Statistics, Individual Differences, Qualitative Mini Project, Quantitative Mini Project, Physiological Psychology, Psychometrics, Virtue Ethics, Cognitive Neuroscience: Insights into Brain Plasticity, Neuropsychological Deficits, Sleep and Circadian Timing, Neuroscience of Decision Making, From Visual Awareness to Free Will, Current Trends in Clinical Psychology, Health Neuroscience.

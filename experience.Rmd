@@ -2,37 +2,47 @@
 title: "Experience"
 ---
 
-## Research
+# Research
 
-### Research Scientist, Summer Intern
-* Employment: Full-time
-* Dates Employed: Jun 2018 – Jul 2018
-* Employment Duration: 2 Months
-* Optimising music listening interventions for individuals with neurological conditions.
-* Responsibilities:
+## Research Scientist, Summer Intern
 
-## Volunteering
+Employment: Full-time
 
-### Volunteer
-* Charity: Legion of Mary Scotland
-* Dates: December 2017 - Present
-* Duration: 3 years
-* Job Description: Visiting a soup kitchen for the homeless to engage with the patrons, providing community education.
+Dates Employed: Jun 2018 – Jul 2018
 
-### Volunteer
-* Charity: Shelter Scotland
-* Dates: January 2017 - May 2015
-* Duration: 5 Months
-* Job Description: Fundraising and maintanance of charity shop
+Employment Duration: 2 Months
 
-### Volunteer Assistant
-* Charity: Diakonie ČCE
-* Dates: August 2015 - March 2016
-* Duration: 1 Year, 3 Months
-* Job Description: Visitting a day-care centre for service users with physical and mental disability to accompany, play music and engage with the service users.
+Optimising music listening interventions for individuals with neurological conditions.
 
-### Volunteer Assistant
-* Charity: Caritas Czech Republic
-* Dates: January 2014 - March 2015
-* Duration: 1 Year, 3 Months
-* Job Description: Visitting a pallitative care ward to provide care and company to the patients.
+# Volunteering
+
+## Legion of Mary Scotland
+
+Dates: December 2017 - Present
+
+Duration: 3 years
+
+Job Description: Visiting a soup kitchen for the homeless to engage with the patrons, providing community education.
+
+## Shelter Scotland
+Dates: January 2017 - May 2017
+
+Duration: 5 Months
+
+Job Description: Fundraising and maintanance of charity shop
+
+## Charity: Diakonie ČCE
+
+Dates: August 2015 - March 2016
+
+Duration: 1 Year, 3 Months
+
+Job Description: Visitting a day-care centre for service users with physical and mental disability to accompany, play music and engage with the service users.
+
+## Caritas Czech Republic
+
+Dates: January 2014 - March 2015
+
+Duration: 1 Year, 3 Months
+
+Job Description: Visitting a pallitative care ward to provide care and company to the patients.

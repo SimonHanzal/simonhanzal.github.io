@@ -4,17 +4,17 @@ output_dir: "docs"
 output:
   html_document:
     self_contained: no
-    theme: flatly
+    theme: yeti
     css: style.css
 navbar:
   title: "Personal Webpage"
   left:
     - text: "Profile"
       href: index.html
-    - text: "Research"
-      href: research.html
     - text: "Academic History"
       href: academic.html
+    - text: "Research"
+      href: research.html
     - text: "Experience"
       href: experience.html
     - text: "Skills"
