@@ -4,10 +4,9 @@ title: "About me"
 
 <div style= "float:left;position: relative; margin: 20px; text-align: center">
 
-![](images/profile_pic.jpg)
-
-# Simon Hanzal
-## Postgraduate Student
+<img src="images/profile_pic.jpeg" alt="profile picture" width="300px" height="300px">
+<h1> Simon Hanzal </h1>
+<h2> Postgraduate Student </h2>
 [University of Glasgow](https://www.psy.gla.ac.uk/otherstaff/?id=SH002)
 <br>
 [![twitter](images/twitter.png)](https://twitter.com/HanzalSimon) [![mail](images/mail.png)](mailto:2263391h@student.gla.ac.uk)
