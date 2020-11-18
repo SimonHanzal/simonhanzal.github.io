@@ -14,7 +14,7 @@ Education Duration: 2 Months
 
 Dissertation: Measuring attention in the general population: an online study
 
-Courses: Data Skills for Reproducible Science, Introduction to MatLab Programming, Professional Skills, Qualitative Methods, Research Methods in Cognitive Science, Cognitive Brain Imaging Methods, Statistics & Research Design
+Courses: Data Skills for Reproducible Science, Introduction to MatLab Programming, Professional Skills, Qualitative Methods, Research Methods in Cognitive Science, Cognitive Brain Imaging Methods, Statistics & Research Design.
 
 ## Single Honours Psychology (MA)
 

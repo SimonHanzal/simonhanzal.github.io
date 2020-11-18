@@ -4,7 +4,7 @@ title: "About me"
 
 <div style= "float:left;position: relative; margin: 20px; text-align: center">
 
-<img src="images/profile_pic.jpeg" alt="profile picture" width="300px" height="300px">
+<img src="images/profile_pic.jpeg" alt="profile picture" width="250px" height="250px">
 <h1> Simon Hanzal </h1>
 <h2> Postgraduate Student </h2>
 [University of Glasgow](https://www.psy.gla.ac.uk/otherstaff/?id=SH002)
