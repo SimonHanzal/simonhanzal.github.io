@@ -4,11 +4,13 @@ title: "Research"
 
 # Research Interests
 
-* Attention, Stroke, Neurofeedback, EEG, fatigue, Ageing
+* Attention, Stroke, Neurofeedback, EEG, Fatigue, Ageing
 
 # Current Research
 
-* TBC
+## Measuring attention in the general population: an online study
+
+For my postgraduate dissertation, I am currently invetigating the relationship between fatigue and attention in the general population online.
 
 # Abstracts
 
