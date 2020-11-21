@@ -1,6 +1,6 @@
 name: "blog"
 author: "Simon Hanzal"
-output_dir: "docs"
+output_dir: "."
 output:
   html_document:
     self_contained: no
