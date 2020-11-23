@@ -7,10 +7,10 @@ title: "About me"
 <img src="images/profile_pic.jpeg" alt="profile picture" width="250px" height="250px">
 <h1> Simon Hanzal </h1>
 <h2> Postgraduate Student </h2>
-[University of Glasgow](https://www.psy.gla.ac.uk/otherstaff/?id=SH002)
+<a href="https://www.psy.gla.ac.uk/otherstaff/?id=SH002" title = "University of Glasgow"> University of Glasgow </a>
 <br>
-[![twitter](images/twitter.png)](https://twitter.com/HanzalSimon) [![mail](images/mail.png)](mailto:2263391h@student.gla.ac.uk)
-
+<a href="https://twitter.com/HanzalSimon" title = "@Hanzalsimon"><img src="images/twitter.png" alt="@Hanzalsimon" width="32px" height="32px"></a>
+<a href="mailto:2263391h@student.gla.ac.uk"  title = "E-mail"> <img src="images/mail.png" alt="E-mail" width="32px" height="32px"></a>
 </div>
 
 # Hello, welcome to my website!
