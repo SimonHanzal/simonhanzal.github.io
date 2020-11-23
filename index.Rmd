@@ -1,30 +1,17 @@
 ---
 title: "About me"
 ---
-
-```{r, echo=FALSE, include=FALSE}
-library("metathis")
-library("tidyverse")
-
-meta() %>% 
-  meta_name(
-    "description" = "A postgraduate blog and webpage with research in cognitive psychology.",
-    "author" = "Simon Hanzal",
-    "robots" = "index, follow",
-    "googlebot" = "index, follow",
-    "keywords" = "psychology, Hanzal, Glasgow, fatigue, cognitive, research, attention"
-  )
-```
-
 <div style= "float:left;position: relative; margin: 20px; text-align: center">
-
 <img src="images/profile_pic.jpeg" alt="profile picture" width="250px" height="250px">
+<p>
 <h1> Simon Hanzal </h1>
 <h2> Postgraduate Student </h2>
 <a href="https://www.psy.gla.ac.uk/otherstaff/?id=SH002" title = "University of Glasgow"> University of Glasgow </a>
 <br>
+<a href="https://github.com/SimonHanzal" title = "Simon Hanzal Github"><img src="images/github.png" alt="Github Simon Hanzal" width="32px" height="32px"></a>
 <a href="https://twitter.com/HanzalSimon" title = "@Hanzalsimon"><img src="images/twitter.png" alt="@Hanzalsimon" width="32px" height="32px"></a>
 <a href="mailto:2263391h@student.gla.ac.uk"  title = "E-mail"> <img src="images/mail.png" alt="E-mail" width="32px" height="32px"></a>
+</p>
 </div>
 
 # Hello, welcome to my website!
