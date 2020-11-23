@@ -3,6 +3,8 @@ author: "Simon Hanzal"
 output_dir: "."
 output:
   html_document:
+    includes:
+      in_header: header.html
     self_contained: no
     theme: yeti
     css: style.css
