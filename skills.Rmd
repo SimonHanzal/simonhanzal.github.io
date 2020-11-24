@@ -30,11 +30,11 @@ Date Issued: January 2015
 
 ## Technical Skills
 
-* R programming language (advanced proficiency)
+* R Statistical computing (advanced proficiency)
 * MS Office (Full working proficiency)
-* Web Programming (basic working proficiency)
-* MatLab Data Analysis (basic working proficiency)
-* Python (elementary proficiency)
+* Web Development (basic working proficiency)
+* MatLab Fieldtrip (basic working proficiency)
+* JsPsych (elementary proficiency)
 
 ## Languages
 
