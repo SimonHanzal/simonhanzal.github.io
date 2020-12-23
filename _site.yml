@@ -13,7 +13,7 @@ navbar:
   left:
     - text: "Profile"
       href: index.html
-    - text: "Blog"
+    - text: "Current Studies"
       href: blog.html
     - text: "Coding Projects"
       href: coding.html

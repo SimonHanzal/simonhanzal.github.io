@@ -23,18 +23,41 @@ p.special {
   color: #0033CC;
 }
 
-a.link {
+a:link {
   color: #0033CC;
 }
 
-a.visited {
+a:visited {
   color: #0033CC;
 }
 
-a.hover {
+a:hover {
   color: #0033CC;
 }
 
-a.active {
+a:active {
   color: #0033CC;
+}
+
+.button {
+  transition-duration: 0.4s;
+  background-color: #0033CC;
+  border-radius: 16px;
+  padding: 0px;
+  margin: 8px;
+  width: 20%;
+}
+
+.button a:link, .button a:visited, .button a:active, .button a:hover {
+  text-decoration: none;
+  display: block;
+  color: white;
+  text-align: center;
+  vertical-align: middle;
+  letter-spacing: normal;
+}
+
+
+.button:hover {
+ background-color: #00289e;
 }

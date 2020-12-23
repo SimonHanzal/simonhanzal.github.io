@@ -7,9 +7,13 @@ title: "Coding Projects"
 
 In this project, I investigate reaction time in an old game, snake.
 <br>
-<a href="https://simonhanzal.github.io/snake/snake.html" title = "Snake">Attempt the snake.</a>
+<div class="button">
+<a href="https://simonhanzal.github.io/snake/snake.html" title = "Snake">Attempt the snake</a>
+</div>
 
 ## SART Online
 In this project, I attemt various modifications of the Sustained Attention to Response Task suitable for the online environment.
 <br>
-<a href="https://simonhanzal.github.io/prototype/task.html" title = "Snake">Attempt the SART.</a>
+<div class="button">
+<a href="https://simonhanzal.github.io/prototype/task.html" title = "Snake">Attempt the SART</a>
+</div>

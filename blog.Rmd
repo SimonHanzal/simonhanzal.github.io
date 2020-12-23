@@ -1,7 +1,23 @@
 ---
-title: "Blog"
+title: "Current Studies"
 ---
 
-# Posts
+## Fatigue Questionnaire Development
 
+<div class="button">
+<a href="https://survey.eu.qualtrics.com/jfe/form/SV_3NPaaGbY8LTGm5D" title="Fatigue Questionnaire">Take the study</a>
+</div>
+
+## Attention in the working population
+
+<div class="button">
+<a href="https://simonhanzal.github.io/fatigue/sart_trial.html" title="Attention Study">Access the trial</a>
+</div>
+
+To take part in the full study, register on <a href="prolific.co" title="Prolific.co">prolific.co</a>.
+
+## Associate study: Autism and Camouflaging
+<div class="button">
+<a href="https://exp.psy.gla.ac.uk/project?camouflaging&guest" title="Autism study">Take the study</a>
+</div>
 

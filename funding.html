@@ -22,6 +22,8 @@
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
+<link href="site_libs/anchor-sections-1.0/anchor-sections.css" rel="stylesheet" />
+<script src="site_libs/anchor-sections-1.0/anchor-sections.js"></script>
 <meta property="og:locale" content="en" />
 <meta property="og:type" content="website" />
 <meta property="og:title" content="Simon Hanzal - a postgraduate blog." />
@@ -37,8 +39,17 @@
 <meta name="author" content="Simon Hanzal"/>
 <meta name="robots" content="index, follow"/>
 <meta name= "googlebot" content="index, follow"/>
-<meta name="keywords" content="psychology, Hanzal, Glasgow, fatigue, cognitive, research, attention"/>
+<meta name="keywords" content="psychology, Hanzal, Glasgow, Simon, cognitive, research, attention"/>
 <link rel="icon" type="image/png" href="images/favicon.png" />
+
+<style type="text/css">
+  code{white-space: pre-wrap;}
+  span.smallcaps{font-variant: small-caps;}
+  span.underline{text-decoration: underline;}
+  div.column{display: inline-block; vertical-align: top; width: 50%;}
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  ul.task-list{list-style: none;}
+    </style>
 
 <style type="text/css">code{white-space: pre;}</style>
 <style type="text/css">
@@ -293,7 +304,7 @@ $(document).ready(function () {
   <a href="index.html">Profile</a>
 </li>
 <li>
-  <a href="blog.html">Blog</a>
+  <a href="blog.html">Current Studies</a>
 </li>
 <li>
   <a href="coding.html">Coding Projects</a>
@@ -370,7 +381,7 @@ $(document).ready(function () {
 
 // add bootstrap table styles to pandoc tables
 function bootstrapStylePandocTables() {
-  $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
+  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
 }
 $(document).ready(function () {
   bootstrapStylePandocTables();
