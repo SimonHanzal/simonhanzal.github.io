@@ -13,6 +13,7 @@
 
 <title>Research</title>
 
+<script src="site_libs/header-attrs-2.3/header-attrs.js"></script>
 <script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/yeti.min.css" rel="stylesheet" />
@@ -22,8 +23,6 @@
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
-<link href="site_libs/anchor-sections-1.0/anchor-sections.css" rel="stylesheet" />
-<script src="site_libs/anchor-sections-1.0/anchor-sections.js"></script>
 <meta property="og:locale" content="en" />
 <meta property="og:type" content="website" />
 <meta property="og:title" content="Simon Hanzal - a postgraduate blog." />
@@ -41,15 +40,6 @@
 <meta name= "googlebot" content="index, follow"/>
 <meta name="keywords" content="psychology, Hanzal, Glasgow, Simon, cognitive, research, attention"/>
 <link rel="icon" type="image/png" href="images/favicon.png" />
-
-<style type="text/css">
-  code{white-space: pre-wrap;}
-  span.smallcaps{font-variant: small-caps;}
-  span.underline{text-decoration: underline;}
-  div.column{display: inline-block; vertical-align: top; width: 50%;}
-  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
-  ul.task-list{list-style: none;}
-    </style>
 
 <style type="text/css">code{white-space: pre;}</style>
 <style type="text/css">
@@ -349,13 +339,17 @@ $(document).ready(function () {
 </div>
 <div id="current-research" class="section level1">
 <h1>Current Research</h1>
-<div id="measuring-attention-in-the-general-population-an-online-study" class="section level2">
-<h2>Measuring attention in the general population: an online study</h2>
-<p>For my postgraduate dissertation, I am currently invetigating the relationship between fatigue and attention in the general population online.</p>
+<div id="suitability-of-neurofeedback-to-improve-post-stroke-fatigue" class="section level2">
+<h2>Suitability of neurofeedback to improve post-stroke fatigue</h2>
+<p>I am currently piloting a task which will be used for patient neurofeedback.</p>
 </div>
 </div>
 <div id="abstracts" class="section level1">
 <h1>Abstracts</h1>
+<div id="measuring-attention-in-the-general-population-an-online-study" class="section level2">
+<h2>Measuring attention in the general population: an online study</h2>
+<p>State fatigue undergoes dynamic changes in relation to internal factors including trait fatigue and external factors pertaining to the currently undertaken tasks. We investigated the impact of a sustained attention to response task (SART) (Robertson, Manly, Andrade, Baddeley &amp; Yiend, 1997) on state fatigue levels in the general population. A JsPsych online version of the task was undertaken for 10 minutes by 115 participants stratified across the entire adult lifespan. While trait fatigue before the task was a strong indicator of the initial state fatigue levels, undergoing the task induced an increase in this reported subjective state fatigue and a reduction in energy. We found age to be greatest predictor of accuracy on task and an effect of task duration leading to a reduction in reaction times. Moreover, relative changes in accuracy were reflected in changes reported in the subjective state fatigue levels. A ceiling effect occurred in that participants with higher trait fatigue would not experience as prevalent a change of state fatigue levels by the task. The findings warrant further investigation into fatigue as a dynamic state in the context of a general trait predisposition to fatigue.</p>
+</div>
 <div id="investigation-of-alpha-rhythms-during-phasic-alerting-in-young-and-older-adults" class="section level2">
 <h2>Investigation of alpha rhythms during phasic alerting in young and older adults</h2>
 <p>Phasic alerting involves presenting a brief alerting sound before a visual target. The tone induces a change in alertness, with a knock-on effect of improving the detection of visual targets that appear subsequently. Changes in attention and alertness are associated with changes in alpha power (8-14Hz) within the parieto-occipital cortex in young adults, but there are few studies investigating this in healthy older adults. A mixed design was used (2 x age groups: young/older, 2 x ROI: left/right, 2 x alpha power bins: high/low). 64-channel EEGs were recorded in 17 young (aged 19-24) and 15 older (aged 50-88) adults. Participants responded to a left/right visual target, either preceded by an alerting tone or silence. Alpha power was extracted before the tone and after the tone/silence. Reduced alpha was found after the alerting tone, but this was no different for young and older adults. Statistical analysis showed an effect of reduced alpha power on reaction time with a greater role of right-lateralised alpha reduction. Consequently, phasic alerting induces some beneficial effects on the alerting network by reducing alpha power which translates into a behavioural benefit. Effect of lateralisation also indicates the role of a distinct right-lateralised network for sustained attention.</p>
@@ -380,7 +374,7 @@ $(document).ready(function () {
 
 // add bootstrap table styles to pandoc tables
 function bootstrapStylePandocTables() {
-  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
+  $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
 }
 $(document).ready(function () {
   bootstrapStylePandocTables();

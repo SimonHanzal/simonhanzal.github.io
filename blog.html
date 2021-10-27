@@ -13,6 +13,7 @@
 
 <title>Current Studies</title>
 
+<script src="site_libs/header-attrs-2.3/header-attrs.js"></script>
 <script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/yeti.min.css" rel="stylesheet" />
@@ -22,8 +23,6 @@
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
-<link href="site_libs/anchor-sections-1.0/anchor-sections.css" rel="stylesheet" />
-<script src="site_libs/anchor-sections-1.0/anchor-sections.js"></script>
 <meta property="og:locale" content="en" />
 <meta property="og:type" content="website" />
 <meta property="og:title" content="Simon Hanzal - a postgraduate blog." />
@@ -41,15 +40,6 @@
 <meta name= "googlebot" content="index, follow"/>
 <meta name="keywords" content="psychology, Hanzal, Glasgow, Simon, cognitive, research, attention"/>
 <link rel="icon" type="image/png" href="images/favicon.png" />
-
-<style type="text/css">
-  code{white-space: pre-wrap;}
-  span.smallcaps{font-variant: small-caps;}
-  span.underline{text-decoration: underline;}
-  div.column{display: inline-block; vertical-align: top; width: 50%;}
-  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
-  ul.task-list{list-style: none;}
-    </style>
 
 <style type="text/css">code{white-space: pre;}</style>
 <style type="text/css">
@@ -341,21 +331,21 @@ $(document).ready(function () {
 </div>
 
 
-<div id="fatigue-questionnaire-development" class="section level2">
-<h2>SART</h2>
-<h3>TESTING</h3>
+<div id="sart-test" class="section level2">
+<h2>SART test</h2>
 <div class="button">
-<p><a href="https://simonhanzal.com/fatigue/sart_test.html" title="SART test">START</a></p>
+<p><a href="https://simonhanzal.com/fatigue/sart_test.html" title="START test">START</a></p>
 </div>
 </div>
-<div id="attention-in-the-working-population" class="section level2">
-<h3>BEFORE</h3>
+<div id="sart-before" class="section level2">
+<h2>SART before</h2>
 <div class="button">
 <p><a href="https://survey.eu.qualtrics.com/jfe/form/SV_d4f4DjaIkZXVs5E" title="SART before">START</a></p>
-<div id="associate-study-autism-and-camouflaging" class="section level2">
 </div>
+<p>Warning: Multiple attempts require an anonymous window.</p>
 </div>
-<h3>AFTER</h3>
+<div id="sart-after" class="section level2">
+<h2>SART after</h2>
 <div class="button">
 <p><a href="https://survey.eu.qualtrics.com/jfe/form/SV_80S6krZzOwwxNhY" title="SART after">START</a></p>
 </div>
@@ -370,7 +360,7 @@ $(document).ready(function () {
 
 // add bootstrap table styles to pandoc tables
 function bootstrapStylePandocTables() {
-  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
+  $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
 }
 $(document).ready(function () {
   bootstrapStylePandocTables();

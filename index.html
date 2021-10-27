@@ -13,6 +13,7 @@
 
 <title>About me</title>
 
+<script src="site_libs/header-attrs-2.3/header-attrs.js"></script>
 <script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/yeti.min.css" rel="stylesheet" />
@@ -22,8 +23,6 @@
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
-<link href="site_libs/anchor-sections-1.0/anchor-sections.css" rel="stylesheet" />
-<script src="site_libs/anchor-sections-1.0/anchor-sections.js"></script>
 <meta property="og:locale" content="en" />
 <meta property="og:type" content="website" />
 <meta property="og:title" content="Simon Hanzal - a postgraduate blog." />
@@ -41,15 +40,6 @@
 <meta name= "googlebot" content="index, follow"/>
 <meta name="keywords" content="psychology, Hanzal, Glasgow, Simon, cognitive, research, attention"/>
 <link rel="icon" type="image/png" href="images/favicon.png" />
-
-<style type="text/css">
-  code{white-space: pre-wrap;}
-  span.smallcaps{font-variant: small-caps;}
-  span.underline{text-decoration: underline;}
-  div.column{display: inline-block; vertical-align: top; width: 50%;}
-  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
-  ul.task-list{list-style: none;}
-    </style>
 
 <style type="text/css">code{white-space: pre;}</style>
 <style type="text/css">
@@ -355,8 +345,8 @@ Postgraduate Student
 </div>
 <div id="hello-welcome-to-my-website" class="section level2">
 <h2>Hello, welcome to my website!</h2>
-<p>I am a postgraduate student at the University of Glasgow’s <a href="https://www.gla.ac.uk/researchinstitutes/neurosciencepsychology/" title = "Institute of Neuroscience and Psychology"> Institute of Neuroscience and Psychology</a>. I work with <a href="https://www.gla.ac.uk/schools/psychology/staff/monikaharvey/" title = "Dr Monika Harvey">Dr Monika Harvey</a>,<a href="https://www.gla.ac.uk/researchinstitutes/neurosciencepsychology/staff/gregorthut/" title = "Prof Gregor Thut"> Prof Gregor Thut </a> and <a href="https://gemmalearmonth.com/" title = "Dr Gemma Learmonth">Dr Gemma Learmonth</a>.</p>
-<p>My main topic of interest is attention and its role in various neurological disorders. Previously, I studied emotion and music-evoked autobiographical memories through public engagement. Insights from the project provide an improvement to the guidelines in therapeutic interventions for patients with a range of neurocognitive disorders. I am currently interested in the use of non-invasive electroencephalography (EEG) in neurofeedback therapy to relieve post-stroke fatigue and improve attention in stroke patients.</p>
+<p>I am a postgraduate research student at the University of Glasgow’s <a href="https://www.gla.ac.uk/researchinstitutes/neurosciencepsychology/" title = "Institute of Neuroscience and Psychology"> Institute of Neuroscience and Psychology</a>. I work with <a href="https://www.gla.ac.uk/schools/psychology/staff/monikaharvey/" title = "Dr Monika Harvey">Dr Monika Harvey</a>,<a href="https://www.gla.ac.uk/researchinstitutes/neurosciencepsychology/staff/gregorthut/" title = "Prof Gregor Thut"> Prof Gregor Thut </a> and <a href="https://gemmalearmonth.com/" title = "Dr Gemma Learmonth">Dr Gemma Learmonth</a>.</p>
+<p>My main topic of interest is attention and its role in various neurological disorders. I contributed to research on the role of phasic alerting in ageing and stroke rehabilitation using electroencephalography (EEG) as well as development of clinical behavioural testing using online experimentation. Previously, I also studied emotion and music-evoked autobiographical memories through public engagement. Insights from the project provided an improvement to the guidelines in therapeutic interventions for patients with a range of neurocognitive disorders. I am currently interested in the use of non-invasive EEG in neurofeedback therapy to relieve post-stroke fatigue and improve attention in stroke patients.</p>
 </div>
 <div id="articles" class="section level2">
 <h2>Articles</h2>
@@ -374,7 +364,7 @@ Postgraduate Student
 
 // add bootstrap table styles to pandoc tables
 function bootstrapStylePandocTables() {
-  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
+  $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
 }
 $(document).ready(function () {
   bootstrapStylePandocTables();

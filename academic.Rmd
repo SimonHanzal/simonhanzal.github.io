@@ -4,17 +4,27 @@ title: "Academic History"
 
 # University of Glasgow
 
+## PhD in Psychology (Research)
+
+Type of study: Full-time
+
+Dates: September 2021 – Present
+
+Thesis: Suitability of neurofeedback to improve post-stroke fatigue
+
 ## Research Methods of Psychological Science (MSc)
 
 Type of study: Full-time
 
-Dates: September 2020 – Present
+Dates: September 2020 – September 2021
 
-Education Duration: 2 Months
+Education Duration: 12 Months
 
 Dissertation: Measuring attention in the general population: an online study
 
 Courses: Data Skills for Reproducible Science, Introduction to MatLab Programming, Professional Skills, Qualitative Methods, Research Methods in Cognitive Science, Cognitive Brain Imaging Methods, Statistics & Research Design.
+
+Alongside studies, I also supported final year undergraduate students in psychology with related research topics.
 
 ## Single Honours Psychology (MA)
 

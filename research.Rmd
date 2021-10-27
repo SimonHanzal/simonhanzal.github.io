@@ -8,11 +8,15 @@ title: "Research"
 
 # Current Research
 
-## Measuring attention in the general population: an online study
+## Suitability of neurofeedback to improve post-stroke fatigue
 
-For my postgraduate dissertation, I am currently invetigating the relationship between fatigue and attention in the general population online.
+I am currently piloting a task which will be used for patient neurofeedback.
 
 # Abstracts
+
+## Measuring attention in the general population: an online study
+
+State fatigue undergoes dynamic changes in relation to internal factors including trait fatigue and external factors pertaining to the currently undertaken tasks. We investigated the impact of a sustained attention to response task (SART) (Robertson, Manly, Andrade, Baddeley & Yiend, 1997) on state fatigue levels in the general population. A JsPsych online version of the task was undertaken for 10 minutes by 115 participants stratified across the entire adult lifespan. While trait fatigue before the task was a strong indicator of the initial state fatigue levels, undergoing the task induced an increase in this reported subjective state fatigue and a reduction in energy. We found age to be greatest predictor of accuracy on task and an effect of task duration leading to a reduction in reaction times. Moreover, relative changes in accuracy were reflected in changes reported in the subjective state fatigue levels. A ceiling effect occurred in that participants with higher trait fatigue would not experience as prevalent a change of state fatigue levels by the task. The findings warrant further investigation into fatigue as a dynamic state in the context of a general trait predisposition to fatigue.
 
 ## Investigation of alpha rhythms during phasic alerting in young and older adults
 
