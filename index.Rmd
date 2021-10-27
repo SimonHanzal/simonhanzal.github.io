@@ -6,12 +6,12 @@ title: "About me"
 <p>
 <h1> Simon Hanzal </h1>
 <h2> Postgraduate Student </h2>
-<a href="https://www.psy.gla.ac.uk/otherstaff/?id=SH002" title = "University of Glasgow"> University of Glasgow </a>
+<a href="https://www.gla.ac.uk/pgrs/simonhanzal" title = "University of Glasgow"> University of Glasgow </a>
 <br>
 <a href="https://osf.io/z37c5/" title = "Simon Hanzal OSF"><img src="images/osf.png" alt="Open Science Framework" width="32px" height="32px"></a>
 <a href="https://github.com/SimonHanzal" title = "Simon Hanzal Github"><img src="images/github.png" alt="Github Simon Hanzal" width="32px" height="32px"></a>
 <a href="https://twitter.com/HanzalSimon" title = "@Hanzalsimon"><img src="images/twitter.png" alt="@Hanzalsimon" width="32px" height="32px"></a>
-<a href="mailto:2263391h@student.gla.ac.uk"  title = "E-mail"> <img src="images/mail.png" alt="E-mail" width="32px" height="32px"></a>
+<a href="mailto:s.hanzal.1@research.gla.ac.uk"  title = "E-mail"> <img src="images/mail.png" alt="E-mail" width="32px" height="32px"></a>
 </p>
 </div>
 
