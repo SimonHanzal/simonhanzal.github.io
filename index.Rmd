@@ -2,6 +2,9 @@
 title: " "
 ---
 <div style= "float:left;position: relative; margin: 20px; text-align: center">
+<br>
+<br>
+<br>
 <img src="images/profile_pic.jpeg" alt="profile picture" width="250px" height="250px">
 <p>
 <h1> Simon Hanzal </h1>
@@ -14,6 +17,10 @@ title: " "
 <a href="mailto:s.hanzal.1@research.gla.ac.uk"  title = "E-mail"> <img src="images/mail.png" alt="E-mail" width="32px" height="32px"></a>
 </p>
 </div>
+
+<br>
+<br>
+<br>
 
 ## Well, hello!
 
