@@ -1,5 +1,5 @@
 ---
-title: "About me"
+title: " "
 ---
 <div style= "float:left;position: relative; margin: 20px; text-align: center">
 <img src="images/profile_pic.jpeg" alt="profile picture" width="250px" height="250px">
@@ -15,7 +15,7 @@ title: "About me"
 </p>
 </div>
 
-## Hello, welcome to my website!
+## Well, hello!
 
 I am a postgraduate research student at the University of Glasgow's <a href="https://www.gla.ac.uk/researchinstitutes/neurosciencepsychology/" title = "Institute of Neuroscience and Psychology"> Institute of Neuroscience and Psychology</a>. I work with <a href="https://www.gla.ac.uk/schools/psychology/staff/monikaharvey/" title = "Dr Monika Harvey">Dr Monika Harvey</a>,<a href="https://www.gla.ac.uk/researchinstitutes/neurosciencepsychology/staff/gregorthut/" title = "Prof Gregor Thut"> Prof Gregor Thut </a> and <a href="https://gemmalearmonth.com/" title = "Dr Gemma Learmonth">Dr Gemma Learmonth</a>.
 
