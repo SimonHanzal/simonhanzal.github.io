@@ -262,23 +262,31 @@ $(document).ready(function () {
         <li>
   <a href="index.html">Profile</a>
 </li>
-<li>
-  <a href="blog.html">Current Studies</a>
+<li class="dropdown">
+  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
+    Blog
+     
+    <span class="caret"></span>
+  </a>
+  <ul class="dropdown-menu" role="menu">
+    <li class="dropdown-header">2023</li>
+    <li>
+      <a href="2023.html">Free Will</a>
+    </li>
+    <li>
+      <a href="2023.html">Animal Intelligence</a>
+    </li>
+    <li class="divider"></li>
+  </ul>
 </li>
 <li>
-  <a href="coding.html">Coding Projects</a>
+  <a href="coding.html">Projects</a>
 </li>
 <li>
   <a href="research.html">Research</a>
 </li>
 <li>
-  <a href="academic.html">Academic History</a>
-</li>
-<li>
   <a href="experience.html">Experience</a>
-</li>
-<li>
-  <a href="skills.html">Skills</a>
 </li>
 <li>
   <a href="funding.html">Funding and Awards</a>
@@ -300,15 +308,8 @@ $(document).ready(function () {
 </div>
 
 
-<div id="shiny-projects" class="section level1">
-<h1>Shiny apps</h1>
-<div id="analyser" class="section level2">
-<h2>Data Analyser</h2>
-This project helps with the descriptive analysis of SART data. <br>
-<div class="button">
-<p><a href="https://simonhanzal.shinyapps.io/data_analyser/" title = "Data Analyser">Analyse SART data</a></p>
-</div>
-<h1>Online Research Projects</h1>
+<div id="jspsych-projects" class="section level1">
+<h1>JSPsych Projects</h1>
 <div id="psychsnake" class="section level2">
 <h2>PsychSnake</h2>
 In this project, I investigate reaction time in an old game, snake. <br>
@@ -320,13 +321,26 @@ In this project, I investigate reaction time in an old game, snake. <br>
 <h2>SART Online</h2>
 In this project, I attemt various modifications of the Sustained Attention to Response Task suitable for the online environment. <br>
 <div class="button">
-<p><a href="https://simonhanzal.github.io/prototype/task.html" title = "SART demonstration">Attempt the SART</a></p>
+<p><a href="https://simonhanzal.github.io/prototype/task.html" title = "Snake">Attempt the SART</a></p>
 </div>
-<div id="sart-online" class="section level2">
-<h2>SART backend</h2>
-This is the script for the general experimental paradigm I use in my online studies. <br>
+</div>
+<div id="sart-test" class="section level2">
+<h2>SART test</h2>
 <div class="button">
-<p><a href="https://simonhanzal.github.io/fatigue/sart_trial.js" title = "SART">See the script</a></p>
+<p><a href="https://simonhanzal.com/fatigue/sart_test.html" title="START test">START</a></p>
+</div>
+</div>
+<div id="sart-before" class="section level2">
+<h2>SART before</h2>
+<div class="button">
+<p><a href="https://survey.eu.qualtrics.com/jfe/form/SV_d4f4DjaIkZXVs5E" title="SART before">START</a></p>
+</div>
+<p>Warning: Multiple attempts require an anonymous window.</p>
+</div>
+<div id="sart-after" class="section level2">
+<h2>SART after</h2>
+<div class="button">
+<p><a href="https://survey.eu.qualtrics.com/jfe/form/SV_80S6krZzOwwxNhY" title="SART after">START</a></p>
 </div>
 </div>
 </div>

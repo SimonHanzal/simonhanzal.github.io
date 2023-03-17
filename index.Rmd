@@ -1,5 +1,5 @@
 ---
-title: "Intro"
+title: ""
 ---
 <div style= "float:left;position: relative; margin: 20px; text-align: center">
 <br>
@@ -30,6 +30,7 @@ My main topic of interest is attention and its role in various neurological diso
 
 My approach to data analysis is founded on a deep understanding of statistical theory and mathematical modeling, combined with a keen eye for detail and a passion for uncovering the stories that data can tell. In my work developing a novel neurofeedback intervention, I routinely transform complex data into actionable insights that drive success. I work closely with each participant as well as the students at the Institute to identify new goals and objectives, and develop customized analysis plans that are tailored to their specific needs. 
 
-## Articles
+## External articles
 
 * <a href="https://the-gist.org/2020/09/the-forced-loneliness-of-coronavirus-lockdowns/" title = "The forced loneliness of coronavirus lockdowns"> The forced loneliness of coronavirus lockdowns</a> in Glasgow Insight into Science & Technology.
+* <a href="http://www.psychoterapeutickesluzby.cz/vyznam-mozkovych-alfa-vln-v-psychoterapii/" title = "Význam mozkových alfa vln v psychoterapii"> Význam mozkových alfa vln v psychoterapii</a> co-author of concept.

@@ -2,27 +2,33 @@
 title: "Research"
 ---
 
-# Research Interests
-
-* Attention, Stroke, Neurofeedback, EEG, Fatigue, Ageing
-
 # Current Research
 
-## Suitability of neurofeedback to improve post-stroke fatigue
+## Suitability of neurofeedback to improve  fatigue
 
-I am currently piloting a task which will be used for patient neurofeedback.
+I am currently piloting a finalising data which will be used to inform a neurofeedback intervention.
 
-# Abstracts
+# Past Papers
 
-## Measuring attention in the general population: an online study
+Turner, C., Baylan, S., Bracco, M., Cruz, G., Hanzal, S., Keime, M., Kuye, I., McNeill, D., Ng, Z., van der Plas, M., Ruzzoli, M., Thut, G., Trajkovic, J., Veniero, D., Wale, S.P., Whear, S. & Learmonth, G. (2023). Developmental changes in individual alpha frequency: Recording EEG during public engagement events. BioRxiv (pre-print), doi: 10.1101/2023.01.20.524682v1. 
 
-State fatigue undergoes dynamic changes in relation to internal factors including trait fatigue and external factors pertaining to the currently undertaken tasks. We investigated the impact of a sustained attention to response task (SART) (Robertson, Manly, Andrade, Baddeley & Yiend, 1997) on state fatigue levels in the general population. A JsPsych online version of the task was undertaken for 10 minutes by 115 participants stratified across the entire adult lifespan. While trait fatigue before the task was a strong indicator of the initial state fatigue levels, undergoing the task induced an increase in this reported subjective state fatigue and a reduction in energy. We found age to be greatest predictor of accuracy on task and an effect of task duration leading to a reduction in reaction times. Moreover, relative changes in accuracy were reflected in changes reported in the subjective state fatigue levels. A ceiling effect occurred in that participants with higher trait fatigue would not experience as prevalent a change of state fatigue levels by the task. The findings warrant further investigation into fatigue as a dynamic state in the context of a general trait predisposition to fatigue.
+Hanzal, S., Harvey, M. & Tvrda, L. (2022) An Investigation into Discomfort and Fatigue Related to the Wearing of an EEG Neurofeedback Headset. MedArXiv (pre-print). doi: 10.1101/2023.02.16.23284115  
+
+# Abstract
 
 ## Investigation of alpha rhythms during phasic alerting in young and older adults
 
 Phasic alerting involves presenting a brief alerting sound before a visual target. The tone induces a change in alertness, with a knock-on effect of improving the detection of visual targets that appear subsequently. Changes in attention and alertness are associated with changes in alpha power (8-14Hz) within the parieto-occipital cortex in young adults, but there are few studies investigating this in healthy older adults. A mixed design was used (2 x age groups: young/older, 2 x ROI: left/right, 2 x alpha power bins: high/low). 64-channel EEGs were recorded in 17 young (aged 19-24) and 15 older (aged 50-88) adults. Participants responded to a left/right visual target, either preceded by an alerting tone or silence. Alpha power was extracted before the tone and after the tone/silence. Reduced alpha was found after the alerting tone, but this was no different for young and older adults. Statistical analysis showed an effect of reduced alpha power on reaction time with a greater role of right-lateralised alpha reduction. Consequently, phasic alerting induces some beneficial effects on the alerting network by reducing alpha power which translates into a behavioural benefit. Effect of lateralisation also indicates the role of a distinct right-lateralised network for sustained attention.
 
-# Presentations
+# Talks
+
+## Experimental Psychology Society Meeting 2022
+
+Title: Measuring attention in the general population: An online study.
+
+Place: Stirling, United Kingdom
+
+Date: July, 2022
 
 ## Vacation Scholars Event
 
@@ -31,3 +37,13 @@ Title: Optimising music listening interventions for individuals with neurologica
 Place: University of Glasgow, College of Science and Engineering Graduate School
 
 Date: September 2019
+
+# Posters
+
+## Visual Sciences Society
+
+Title: Neural correlates of inducing fatigue with a sustained attention task
+
+Place: St Pete Beach, Florida, USA
+
+Date: May 2023
