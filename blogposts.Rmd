@@ -1,6 +1,8 @@
 ---
-title: "Psychology of Free Will Revisited"
+title: "Personal Blog"
 ---
+
+# Psychology of Free Will Revisited
 
 „But it is clear that ethics has nothing to do with punishment and reward in the ordinary sense. This question as to the consequences of an action must therefore be irrelevant. At least these consequences will not be events. For there must be something right in that formulation of the question. There must be some sort of ethical reward and ethical punishment, but this must lie in the action itself. Of the will as the subject of the ethical we cannot speak. And the will as a phenomenon is only of interest to psychology.“
 -	Ludwig Wittgenstein, Tractatus p. 6.422 – 6.423
