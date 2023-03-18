@@ -1,5 +1,6 @@
 ---
 title: "Funding and Awards"
+description: "Previously received funding."
 ---
 
 # Funding

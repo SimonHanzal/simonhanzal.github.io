@@ -1,5 +1,6 @@
 ---
 title: "Coding Projects"
+description: "Overview of coding and analysis projects."
 ---
 # R
 ## Shiny Data Analyser

@@ -1,5 +1,6 @@
 ---
 title: "Current Studies"
+description: "Studies currently run in our lab."
 ---
 
 ## SART test

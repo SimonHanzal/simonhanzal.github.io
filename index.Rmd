@@ -1,8 +1,18 @@
 ---
-title: ""
+title: "Main Page"
+description: "The profile of Simon Hanzal."
 ---
+
+```{css, echo=FALSE}
+h1.title {
+  font-size: 0px;
+  margin-top: 2px;
+  margin-bottom: 2px;
+}
+```
+
+
 <div style= "float:left;position: relative; margin: 20px; text-align: center">
-<br>
 <br>
 <br>
 <img src="images/profile_pic.jpeg" alt="profile picture" width="250px" height="250px">

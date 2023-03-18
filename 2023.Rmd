@@ -1,5 +1,6 @@
 ---
 title: "Personal Blog"
+description: "Blogposts about psychology from year 2023."
 output: 
   html_document:
     toc: true
