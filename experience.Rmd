@@ -2,6 +2,16 @@
 title: "Experience"
 ---
 
+# Teaching
+
+## Graduate Teaching Assitent
+
+Employment: Part-time
+
+Date Employed: September 2021 - Present
+ 
+Job Description: Small and Large group demonstration of coding and writing skills. Individual support and assessment of students in psychology over the whole undergraduate cohort.
+
 # Research
 
 ## Research Scientist, Summer Intern
@@ -14,15 +24,6 @@ Employment Duration: 2 Months
 
 Project name: Optimising music listening interventions for individuals with neurological conditions.
 
-# Teaching
-
-## Graduate Teaching Assitent
-
-Employment: Part-time
-
-Date Employed: September 2021 - Present
- 
-Job Description: Laboratory Demonstration and individual support of level two students in psychology. I also support final year psychology and neuroscience students with related research projects.
 
 # Volunteering
 
@@ -40,7 +41,7 @@ Dates: August 2015 - March 2016
 
 Duration: 7 Months
 
-Job Description: Visitting a day-care centre for service users with physical and mental disability to accompany, play music and engage with the service users.
+Job Description: Visits to a day-care centre for individuals with physical and mental disability to accompany, play music and engage with the service users.
 
 ## Caritas Czech Republic
 
@@ -48,4 +49,4 @@ Dates: January 2014 - March 2015
 
 Duration: 1 Year, 3 Months
 
-Job Description: Visitting a pallitative care ward to provide care and company to the patients.
+Job Description: Visiation to pallitative care wards to provide person-centred care and company to patients.

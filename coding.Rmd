@@ -2,7 +2,13 @@
 title: "Coding Projects"
 description: "Overview of coding and analysis projects."
 ---
+
+# Main projects
+
+To see what I am currently up to, follow my activity on <a href="https://github.com/SimonHanzal">Github</a>.
+
 # R
+
 ## Shiny Data Analyser
  
 This project helps with the descriptive analysis of SART data.
@@ -11,16 +17,18 @@ This project helps with the descriptive analysis of SART data.
 </div>
  
 # JSPsych Projects
+
 ## PsychSnake
 
-In this project, I investigate reaction time in an old game, snake.
+In this project, I investigate reaction times in an old game, snake.
 <br>
 <div class="button">
 <a href="https://simonhanzal.github.io/snake/snake.html" title = "Snake">Attempt the snake</a>
 </div>
 
 ## SART Online
-In this project, I attemt various modifications of the Sustained Attention to Response Task suitable for the online environment.
+
+In this project, I attempt various modifications of the Sustained Attention to Response Task suitable for the online environment.
 <br>
 <div class="button">
 <a href="https://simonhanzal.github.io/prototype/task.html" title = "Snake">Attempt the SART</a>
