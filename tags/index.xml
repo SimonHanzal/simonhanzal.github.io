@@ -2,63 +2,63 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Simon Hanzal</title>
-    <link>localhost/tags/</link>
+    <link>https://simonhanzal.github.io/tags/</link>
     <description>Recent content in Tags on Simon Hanzal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate>Fri, 17 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="localhost/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 17 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://simonhanzal.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>EEG</title>
-      <link>localhost/tags/eeg/</link>
+      <link>https://simonhanzal.github.io/tags/eeg/</link>
       <pubDate>Fri, 17 Mar 2023 00:00:00 +0000</pubDate>
       
-      <guid>localhost/tags/eeg/</guid>
+      <guid>https://simonhanzal.github.io/tags/eeg/</guid>
       <description></description>
     </item>
     
     <item>
       <title>free will</title>
-      <link>localhost/tags/free-will/</link>
+      <link>https://simonhanzal.github.io/tags/free-will/</link>
       <pubDate>Fri, 17 Mar 2023 00:00:00 +0000</pubDate>
       
-      <guid>localhost/tags/free-will/</guid>
+      <guid>https://simonhanzal.github.io/tags/free-will/</guid>
       <description></description>
     </item>
     
     <item>
       <title>philosophy</title>
-      <link>localhost/tags/philosophy/</link>
+      <link>https://simonhanzal.github.io/tags/philosophy/</link>
       <pubDate>Fri, 17 Mar 2023 00:00:00 +0000</pubDate>
       
-      <guid>localhost/tags/philosophy/</guid>
+      <guid>https://simonhanzal.github.io/tags/philosophy/</guid>
       <description></description>
     </item>
     
     <item>
       <title>psychology</title>
-      <link>localhost/tags/psychology/</link>
+      <link>https://simonhanzal.github.io/tags/psychology/</link>
       <pubDate>Fri, 17 Mar 2023 00:00:00 +0000</pubDate>
       
-      <guid>localhost/tags/psychology/</guid>
+      <guid>https://simonhanzal.github.io/tags/psychology/</guid>
       <description></description>
     </item>
     
     <item>
       <title>coronavirus</title>
-      <link>localhost/tags/coronavirus/</link>
+      <link>https://simonhanzal.github.io/tags/coronavirus/</link>
       <pubDate>Fri, 04 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>localhost/tags/coronavirus/</guid>
+      <guid>https://simonhanzal.github.io/tags/coronavirus/</guid>
       <description></description>
     </item>
     
     <item>
       <title>opinion</title>
-      <link>localhost/tags/opinion/</link>
+      <link>https://simonhanzal.github.io/tags/opinion/</link>
       <pubDate>Fri, 04 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>localhost/tags/opinion/</guid>
+      <guid>https://simonhanzal.github.io/tags/opinion/</guid>
       <description></description>
     </item>
     
