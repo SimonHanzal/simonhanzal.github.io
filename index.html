@@ -1,391 +1,169 @@
 <!DOCTYPE html>
-
-<html>
-
-<head>
-
-<meta charset="utf-8" />
-<meta name="generator" content="pandoc" />
-<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
-
-
-
-
-<title>Main Page</title>
-
-<script src="site_libs/header-attrs-2.11/header-attrs.js"></script>
-<script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
-<meta name="viewport" content="width=device-width, initial-scale=1" />
-<link href="site_libs/bootstrap-3.3.5/css/yeti.min.css" rel="stylesheet" />
-<script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
-<script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
-<script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
-<style>h1 {font-size: 34px;}
-       h1.title {font-size: 38px;}
-       h2 {font-size: 30px;}
-       h3 {font-size: 24px;}
-       h4 {font-size: 18px;}
-       h5 {font-size: 16px;}
-       h6 {font-size: 12px;}
-       code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
-       pre:not([class]) { background-color: white }</style>
-<script src="site_libs/navigation-1.1/tabsets.js"></script>
-<link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
-<script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
-<meta property="og:locale" content="en" />
-<meta property="og:type" content="website" />
-<meta property="og:title" content="Simon Hanzal - a postgraduate blog." />
-<meta property="og:description" content="A postgraduate blog and webpage with research in cognitive psychology." />
-<meta property="og:url" content="https://simonhanzal.com/" />
-<meta property="og:site_name" content="Simon Hanzal" />
-<meta name="twitter:card" content="summary_large_image" />
-<meta name="twitter:description" content="A postgraduate blog and webpage with research in cognitive psychology" />
-<meta name="twitter:title" content="Simon Hanzal - a postgraduate blog." />
-<meta name="twitter:image" content="images/profile_pic.jpg"/>
-
-<meta name= "description" content="A postgraduate blog and webpage with research in cognitive psychology."/>
-<meta name="author" content="Simon Hanzal"/>
-<meta name="robots" content="index, follow"/>
-<meta name= "googlebot" content="index, follow"/>
-<meta name="keywords" content="psychology, Hanzal, Glasgow, Simon, cognitive, research, attention"/>
-<link rel="icon" type="image/png" href="images/favicon.png" />
-
-<style type="text/css">
-  code{white-space: pre-wrap;}
-  span.smallcaps{font-variant: small-caps;}
-  span.underline{text-decoration: underline;}
-  div.column{display: inline-block; vertical-align: top; width: 50%;}
-  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
-  ul.task-list{list-style: none;}
-    </style>
-
-<style type="text/css">code{white-space: pre;}</style>
-<script type="text/javascript">
-if (window.hljs) {
-  hljs.configure({languages: []});
-  hljs.initHighlightingOnLoad();
-  if (document.readyState && document.readyState === "complete") {
-    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
-  }
-}
-</script>
+<html lang="en">
+    <head>
+	<meta name="generator" content="Hugo 0.111.3">
+        <meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="ie=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="author" content="">
+<meta name="description" content="Postgraduate researcher &amp; Data Analyst" />
+<meta name="keywords" content="" />
+<meta name="robots" content="noodp" />
+<meta name="theme-color" content="" />
+<link rel="canonical" href="localhost/" />
 
 
-
-
-
-<link rel="stylesheet" href="style.css" type="text/css" />
-
-
-
-<style type = "text/css">
-.main-container {
-  max-width: 940px;
-  margin-left: auto;
-  margin-right: auto;
-}
-img {
-  max-width:100%;
-}
-.tabbed-pane {
-  padding-top: 12px;
-}
-.html-widget {
-  margin-bottom: 20px;
-}
-button.code-folding-btn:focus {
-  outline: none;
-}
-summary {
-  display: list-item;
-}
-pre code {
-  padding: 0;
-}
-</style>
-
-
-<style type="text/css">
-.dropdown-submenu {
-  position: relative;
-}
-.dropdown-submenu>.dropdown-menu {
-  top: 0;
-  left: 100%;
-  margin-top: -6px;
-  margin-left: -1px;
-  border-radius: 0 6px 6px 6px;
-}
-.dropdown-submenu:hover>.dropdown-menu {
-  display: block;
-}
-.dropdown-submenu>a:after {
-  display: block;
-  content: " ";
-  float: right;
-  width: 0;
-  height: 0;
-  border-color: transparent;
-  border-style: solid;
-  border-width: 5px 0 5px 5px;
-  border-left-color: #cccccc;
-  margin-top: 5px;
-  margin-right: -10px;
-}
-.dropdown-submenu:hover>a:after {
-  border-left-color: #adb5bd;
-}
-.dropdown-submenu.pull-left {
-  float: none;
-}
-.dropdown-submenu.pull-left>.dropdown-menu {
-  left: -100%;
-  margin-left: 10px;
-  border-radius: 6px 0 6px 6px;
-}
-</style>
-
-<script type="text/javascript">
-// manage active state of menu based on current page
-$(document).ready(function () {
-  // active menu anchor
-  href = window.location.pathname
-  href = href.substr(href.lastIndexOf('/') + 1)
-  if (href === "")
-    href = "index.html";
-  var menuAnchor = $('a[href="' + href + '"]');
-
-  // mark it active
-  menuAnchor.tab('show');
-
-  // if it's got a parent navbar menu mark it active as well
-  menuAnchor.closest('li.dropdown').addClass('active');
-
-  // Navbar adjustments
-  var navHeight = $(".navbar").first().height() + 15;
-  var style = document.createElement('style');
-  var pt = "padding-top: " + navHeight + "px; ";
-  var mt = "margin-top: -" + navHeight + "px; ";
-  var css = "";
-  // offset scroll position for anchor links (for fixed navbar)
-  for (var i = 1; i <= 6; i++) {
-    css += ".section h" + i + "{ " + pt + mt + "}\n";
-  }
-  style.innerHTML = "body {" + pt + "padding-bottom: 40px; }\n" + css;
-  document.head.appendChild(style);
-});
-</script>
-
-<!-- tabsets -->
-
-<style type="text/css">
-.tabset-dropdown > .nav-tabs {
-  display: inline-table;
-  max-height: 500px;
-  min-height: 44px;
-  overflow-y: auto;
-  border: 1px solid #ddd;
-  border-radius: 4px;
-}
-
-.tabset-dropdown > .nav-tabs > li.active:before {
-  content: "";
-  font-family: 'Glyphicons Halflings';
-  display: inline-block;
-  padding: 10px;
-  border-right: 1px solid #ddd;
-}
-
-.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
-  content: "&#xe258;";
-  border: none;
-}
-
-.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
-  content: "";
-  font-family: 'Glyphicons Halflings';
-  display: inline-block;
-  padding: 10px;
-  border-right: 1px solid #ddd;
-}
-
-.tabset-dropdown > .nav-tabs > li.active {
-  display: block;
-}
-
-.tabset-dropdown > .nav-tabs > li > a,
-.tabset-dropdown > .nav-tabs > li > a:focus,
-.tabset-dropdown > .nav-tabs > li > a:hover {
-  border: none;
-  display: inline-block;
-  border-radius: 4px;
-  background-color: transparent;
-}
-
-.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
-  display: block;
-  float: none;
-}
-
-.tabset-dropdown > .nav-tabs > li {
-  display: none;
-}
-</style>
-
-<!-- code folding -->
-
-
-
-
-</head>
-
-<body>
-
-
-<div class="container-fluid main-container">
-
-
-
-
-<div class="navbar navbar-default  navbar-fixed-top" role="navigation">
-  <div class="container">
-    <div class="navbar-header">
-      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>
-      </button>
-      <a class="navbar-brand" href="index.html">Personal Webpage</a>
-    </div>
-    <div id="navbar" class="navbar-collapse collapse">
-      <ul class="nav navbar-nav">
-        <li>
-  <a href="index.html">Profile</a>
-</li>
-<li class="dropdown">
-  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
-    Blog
-     
-    <span class="caret"></span>
-  </a>
-  <ul class="dropdown-menu" role="menu">
-    <li class="dropdown-header">2023</li>
-    <li>
-      <a href="2023.html">Free Will</a>
-    </li>
-    <li>
-      <a href="2023.html">Animal Intelligence</a>
-    </li>
-    <li class="divider"></li>
-  </ul>
-</li>
-<li>
-  <a href="coding.html">Projects</a>
-</li>
-<li>
-  <a href="research.html">Research</a>
-</li>
-<li>
-  <a href="experience.html">Experience</a>
-</li>
-<li>
-  <a href="funding.html">Funding and Awards</a>
-</li>
-      </ul>
-      <ul class="nav navbar-nav navbar-right">
+    <title>
         
-      </ul>
-    </div><!--/.nav-collapse -->
-  </div><!--/.container -->
-</div><!--/.navbar -->
-
-<div id="header">
-
-
-
-<h1 class="title toc-ignore">Main Page</h1>
-
-</div>
-
-
-<style type="text/css">
-h1.title {
-  font-size: 0px;
-  margin-top: 2px;
-  margin-bottom: 2px;
-}
-</style>
-<div style="float:left;position: relative; margin: 20px; text-align: center">
-<br> <br> <img src="images/profile_pic.jpeg" alt="profile picture" width="250px" height="250px">
-<p>
-<h1>
-Simon Hanzal
-</h1>
-<h2>
-Postgraduate Researcher
-</h2>
-<a href="https://www.gla.ac.uk/pgrs/simonhanzal" title = "University of Glasgow"> University of Glasgow </a> <br> <a href="https://osf.io/z37c5/" title = "Simon Hanzal OSF"><img src="images/osf.png" alt="Open Science Framework" width="32px" height="32px"></a> <a href="https://github.com/SimonHanzal" title = "Simon Hanzal Github"><img src="images/github.png" alt="Github Simon Hanzal" width="32px" height="32px"></a> <a href="https://twitter.com/HanzalSimon" title = "@Hanzalsimon"><img src="images/twitter.png" alt="@Hanzalsimon" width="32px" height="32px"></a> <a href="mailto:s.hanzal.1@research.gla.ac.uk"  title = "E-mail"> <img src="images/mail.png" alt="E-mail" width="32px" height="32px"></a>
-</p>
-</div>
-<p><br> <br> <br></p>
-<div id="well-hello" class="section level2">
-<h2>Well, hello!</h2>
-<p>I am a passionate and experienced postgraduate researcher at the University of Glasgow’s <a href="https://www.gla.ac.uk/researchinstitutes/neurosciencepsychology/" title = "Institute of Neuroscience and Psychology"> Institute of Neuroscience and Psychology</a>. I work with <a href="https://www.gla.ac.uk/schools/psychology/staff/monikaharvey/" title = "Dr Monika Harvey">Dr Monika Harvey</a>,<a href="https://www.gla.ac.uk/researchinstitutes/neurosciencepsychology/staff/gregorthut/" title = "Prof Gregor Thut"> Prof Gregor Thut </a> and <a href="https://gemmalearmonth.com/" title = "Dr Gemma Learmonth">Dr Gemma Learmonth</a>.</p>
-<p>My main topic of interest is attention and its role in various neurological disorders. I contributed to research on the role of phasic alerting in ageing and stroke rehabilitation using electroencephalography (EEG) as well as development of clinical behavioural testing using online experimentation. Previously, I also studied emotion and music-evoked autobiographical memories through public engagement. Insights from the project provided an improvement to the guidelines in therapeutic interventions for patients with a range of neurocognitive disorders. I am currently interested in the use of non-invasive EEG in neurofeedback therapy to relieve fatigue and improve attention.</p>
-<p>My approach to data analysis is founded on a deep understanding of statistical theory and modeling, combined with a keen eye for detail and a passion for uncovering the stories that data can tell. In my work developing a novel neurofeedback intervention, I routinely transform complex data into actionable insights that drive success. I work closely with each participant as well as the students at the Institute to identify new goals and objectives, and develop customized analysis plans that are tailored to their specific needs.</p>
-</div>
-<div id="external-articles" class="section level2">
-<h2>External articles</h2>
-<ul>
-<li><a href="https://the-gist.org/2020/09/the-forced-loneliness-of-coronavirus-lockdowns/" title = "The forced loneliness of coronavirus lockdowns"> The forced loneliness of coronavirus lockdowns</a> in Glasgow Insight into Science &amp; Technology.</li>
-<li><a href="http://www.psychoterapeutickesluzby.cz/vyznam-mozkovych-alfa-vln-v-psychoterapii/" title = "Význam mozkových alfa vln v psychoterapii"> Význam mozkových alfa vln v psychoterapii</a> co-author of concept.</li>
-</ul>
-</div>
+            Simon Hanzal  — Postgraduate researcher &amp; Data Analyst 
+        
+    </title>
 
 
 
 
-</div>
 
-<script>
-
-// add bootstrap table styles to pandoc tables
-function bootstrapStylePandocTables() {
-  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
-}
-$(document).ready(function () {
-  bootstrapStylePandocTables();
-});
+<link rel="stylesheet" href="localhost/main.b78c3be9451dc4ca61ca377f3dc2cf2e6345a44c2bae46216a322ef366daa399.css" integrity="sha256-t4w76UUdxMphyjd/PcLPLmNFpEwrrkYhajIu82bao5k=">
 
 
-</script>
 
-<!-- tabsets -->
-
-<script>
-$(document).ready(function () {
-  window.buildTabsets("TOC");
-});
-
-$(document).ready(function () {
-  $('.tabset-dropdown > .nav-tabs > li').click(function () {
-    $(this).parent().toggleClass('nav-tabs-open');
-  });
-});
-</script>
-
-<!-- code folding -->
+    <link rel="apple-touch-icon" sizes="180x180" href="localhost/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="localhost/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="localhost/favicon-16x16.png">
+    <link rel="manifest" href="localhost/site.webmanifest">
+    <link rel="mask-icon" href="localhost/safari-pinned-tab.svg" color="">
+    <link rel="shortcut icon" href="localhost/favicon.ico">
+    <meta name="msapplication-TileColor" content="">
 
 
-<!-- dynamically load mathjax for compatibility with self-contained -->
-<script>
-  (function () {
-    var script = document.createElement("script");
-    script.type = "text/javascript";
-    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
-    document.getElementsByTagName("head")[0].appendChild(script);
-  })();
-</script>
+<meta itemprop="name" content="Simon Hanzal">
+<meta itemprop="description" content="Homepage">
+<meta name="twitter:card" content="summary_large_image"/>
+<meta name="twitter:image" content="localhost/112"/>
 
-</body>
+<meta name="twitter:title" content="Simon Hanzal"/>
+<meta name="twitter:description" content="Homepage"/>
+
+
+
+    <meta property="og:title" content="Simon Hanzal" />
+<meta property="og:description" content="Homepage" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="localhost/" /><meta property="og:image" content="localhost/112"/><meta property="og:site_name" content="Simon Hanzal" />
+
+
+
+
+
+
+
+
+
+<link rel="alternate" type="application/rss+xml" href="localhost/index.xml" title="Simon Hanzal" />
+
+
+
+
+
+
+
+
+    </head>
+
+    
+    <body class="">
+
+    
+        <div class="container">
+            <header class="header">
+    <span class="header__inner">
+        <a href="localhost/" style="text-decoration: none;">
+    <div class="logo">
+        
+            <span class="logo__mark">></span>
+            <span class="logo__text ">
+                $cd /home/</span>
+            <span class="logo__cursor" style=
+                  "
+                   
+                   ">
+            </span>
+        
+    </div>
+</a>
+
+
+        <span class="header__right">
+            
+                <nav class="menu">
+    <ul class="menu__inner"><li><a href="localhost/about">About</a></li><li><a href="localhost/skills">Skills</a></li><li><a href="localhost/education">Education</a></li><li><a href="localhost/research">Research</a></li><li><a href="localhost/projects">Projects</a></li><li><a href="localhost/posts">Words</a></li><li><a href="https://simonhanzal.github.io/cv">Terminal</a></li>
+    </ul>
+</nav>
+
+                <span class="menu-trigger">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+                        <path d="M0 0h24v24H0z" fill="none"/>
+                        <path d="M3 18h18v-2H3v2zm0-5h18v-2H3v2zm0-7v2h18V6H3z"/>
+                    </svg>
+                </span>
+            
+        </span>
+    </span>
+</header>
+
+
+            <div class="content">
+                
+    <main aria-role="main">
+        <div>
+            
+               <img src="profile_pic.webp" class="circle" alt="Portrait" style="max-width:128px" />
+            
+
+            <h1>Simon Hanzal</h1>
+
+            
+    <p>Postgraduate researcher &amp; Data Analyst</p>
+                <div>
+                    &nbsp; <a href="https://twitter.com/HanzalSimon" target="_blank" rel="me noopener " title="Twitter"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M23 3a10.9 10.9 0 0 1-3.14 1.53 4.48 4.48 0 0 0-7.86 3v1A10.66 10.66 0 0 1 3 4s-4 9 5 13a11.64 11.64 0 0 1-7 2c9 5 20 0 20-11.5a4.5 4.5 0 0 0-.08-.83A7.72 7.72 0 0 0 23 3z"></path></svg></a> &nbsp;&nbsp; <a href="mailto:s.hanzal.1@research.gla.ac.uk" target="_blank" rel="me noopener " title="Email"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"></path><polyline points="22,6 12,13 2,6"></polyline></svg></a> &nbsp;&nbsp; <a href="https://github.com/simonhanzal" target="_blank" rel="me noopener " title="Github"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37 0 0 0-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44 0 0 0 20 4.77 5.07 5.07 0 0 0 19.91 1S18.73.65 16 2.48a13.38 13.38 0 0 0-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07 0 0 0 5 4.77a5.44 5.44 0 0 0-1.5 3.78c0 5.42 3.3 6.61 6.44 7A3.37 3.37 0 0 0 9 18.13V22"></path></svg></a> &nbsp;&nbsp; <a href="https://www.linkedin.com/in/simon-hanzal-5110961ab/?originalSubdomain=uk" target="_blank" rel="me noopener " title="Linkedin"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M16 8a6 6 0 0 1 6 6v7h-4v-7a2 2 0 0 0-2-2 2 2 0 0 0-2 2v7h-4v-7a6 6 0 0 1 6-6z"></path><rect x="2" y="9" width="4" height="12"></rect><circle cx="4" cy="4" r="2"></circle></svg></a> &nbsp;&nbsp; <a href="https://www.buymeacoffee.com/hanzalsimon" target="_blank" rel="me noopener " title="Buymeacoffee"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="currentColor" stroke="none" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"><path d="M23.881 8.948c-.773-4.085-4.859-4.593-4.859-4.593H.723c-.604 0-.679.798-.679.798s-.082 7.324-.022 11.822c.164 2.424 2.586 2.672 2.586 2.672s8.267-.023 11.966-.049c2.438-.426 2.683-2.566 2.658-3.734 4.352.24 7.422-2.831 6.649-6.916zm-11.062 3.511c-1.246 1.453-4.011 3.976-4.011 3.976s-.121.119-.31.023c-.076-.057-.108-.09-.108-.09-.443-.441-3.368-3.049-4.034-3.954-.709-.965-1.041-2.7-.091-3.71.951-1.01 3.005-1.086 4.363.407 0 0 1.565-1.782 3.468-.963 1.904.82 1.832 3.011.723 4.311zm6.173.478c-.928.116-1.682.028-1.682.028V7.284h1.77s1.971.551 1.971 2.638c0 1.913-.985 2.667-2.059 3.015z"/></svg></a> &nbsp;&nbsp; <a href="https://osf.io/z37c5/" target="_blank" rel="me noopener " title="Osf"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="currentColor" stroke="none"><path d="M5.042 15.165a2.528 2.528 0 0 1-2.52 2.523A2.528 2.528 0 0 1 0 15.165a2.527 2.527 0 0 1 2.522-2.52h2.52v2.52zM6.313 15.165a2.527 2.527 0 0 1 2.521-2.52 2.527 2.527 0 0 1 2.521 2.52v6.313A2.528 2.528 0 0 1 8.834 24a2.528 2.528 0 0 1-2.521-2.522v-6.313zM8.834 5.042a2.528 2.528 0 0 1-2.521-2.52A2.528 2.528 0 0 1 8.834 0a2.528 2.528 0 0 1 2.521 2.522v2.52H8.834zM8.834 6.313a2.528 2.528 0 0 1 2.521 2.521 2.528 2.528 0 0 1-2.521 2.521H2.522A2.528 2.528 0 0 1 0 8.834a2.528 2.528 0 0 1 2.522-2.521h6.312zM18.956 8.834a2.528 2.528 0 0 1 2.522-2.521A2.528 2.528 0 0 1 24 8.834a2.528 2.528 0 0 1-2.522 2.521h-2.522V8.834zM17.688 8.834a2.528 2.528 0 0 1-2.523 2.521 2.527 2.527 0 0 1-2.52-2.521V2.522A2.527 2.527 0 0 1 15.165 0a2.528 2.528 0 0 1 2.523 2.522v6.312zM15.165 18.956a2.528 2.528 0 0 1 2.523 2.522A2.528 2.528 0 0 1 15.165 24a2.527 2.527 0 0 1-2.52-2.522v-2.522h2.52zM15.165 17.688a2.527 2.527 0 0 1-2.52-2.523 2.526 2.526 0 0 1 2.52-2.52h6.313A2.527 2.527 0 0 1 24 15.165a2.528 2.528 0 0 1-2.522 2.523h-6.313z"/></svg></a> &nbsp;&nbsp; <a href="https://orcid.org/0000-0003-2659-1980" target="_blank" rel="me noopener " title="Orcid"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="currentColor" stroke-width="2"><path d="M12 0C5.372 0 0 5.372 0 12s5.372 12 12 12 12-5.372 12-12S18.628 0 12 0zM7.369 4.378c.525 0 .947.431.947.947s-.422.947-.947.947a.95.95 0 0 1-.947-.947c0-.525.422-.947.947-.947zm-.722 3.038h1.444v10.041H6.647V7.416zm3.562 0h3.9c3.712 0 5.344 2.653 5.344 5.025 0 2.578-2.016 5.025-5.325 5.025h-3.919V7.416zm1.444 1.303v7.444h2.297c3.272 0 4.022-2.484 4.022-3.722 0-2.016-1.284-3.722-4.097-3.722h-2.222z"/></svg></a> &nbsp;
+                </div>
+        </div>
+    </main>
+
+            </div>
+
+            
+                <footer class="footer">
+    
+    <div class="footer__inner">
+        <div class="footer__content">
+            <span>&copy; 2023</span>
+            
+            
+            <span><a href="localhost/posts/index.xml" target="_blank" title="rss"><svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-rss"><path d="M4 11a9 9 0 0 1 9 9"></path><path d="M4 4a16 16 0 0 1 16 16"></path><circle cx="5" cy="19" r="1"></circle></svg></a></span>
+            
+        </div>
+    </div>
+    
+    
+    <div class="footer__inner">
+        <div class="footer__content">
+            <span>web by Simon Hanzal</span><span>theme by <a href="https://github.com/rhazdon">rhazdon</a></span>
+        </div>
+    </div>
+    
+</footer>
+
+            
+        </div>
+
+        
+
+
+
+<script type="text/javascript" src="localhost/bundle.min.205d491810c28f95aa953fae884e1c27abe13fdf93ec63b882d0036b248d4a6282eb2d134e4e7225c6ad6e86db87b08488a361ca4a7383d01fcff43f3d57b9c3.js" integrity="sha512-IF1JGBDCj5WqlT&#43;uiE4cJ6vhP9&#43;T7GO4gtADaySNSmKC6y0TTk5yJcatbobbh7CEiKNhykpzg9Afz/Q/PVe5ww=="></script>
+
+
+
+    </body>
 </html>
