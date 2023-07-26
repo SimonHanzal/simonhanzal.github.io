@@ -6,8 +6,7 @@
     <description>Recent content on Simon Hanzal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate>Wed, 11 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://simonhanzal.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright><atom:link href="https://simonhanzal.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
       <link>https://simonhanzal.github.io/about/</link>
@@ -76,15 +75,6 @@ Past Papers Turner, C., Baylan, S., Bracco, M., Cruz, G., Hanzal, S., Keime, M.,
       <guid>https://simonhanzal.github.io/skills/</guid>
       <description>Coding I have multiple years of experience accessing data, including data from databases using MySQL and SQLite as well as restructuring and cleaning data using Numpy, Pandas and Scipy in Python and the amazing Tidyverse in R, often as part of larger projects organised through Jupyter notebooks or R Packages.
 In the following code, I use a combination of base R and Tidyverse functional programming to make a useful fuction to carry out an operation that often occurs in wrangling.</description>
-    </item>
-    
-    <item>
-      <title>Humans and monkeys are different?</title>
-      <link>https://simonhanzal.github.io/posts/humansapes/</link>
-      <pubDate>Wed, 11 Jan 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://simonhanzal.github.io/posts/humansapes/</guid>
-      <description>I present to you the findings which show that we can recognise objects both as literal things and symbols, whereas animals treat all objects in the world literally. It is evidence based on empirical observation of the world and which is thus factual for believers and non-believers alike. It is an outcome of an impressive work of science spanning several continents and nearly a thousand of humans and animals, published this April in the Proceedings of the National Academy of Sciences of France, doi.</description>
     </item>
     
   </channel>
